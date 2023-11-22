@@ -7,7 +7,47 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 /* 
     GENERAL
 */
+
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* 
+    HEADER
+*/
+
+.bg-info-subtitle{
+    background-color: #1ABC9C;
+}
+
+.header-h2{
+    white-space: initial;
+}
+
+.img-container{
+    max-height: 200px;
+    max-width: 200px;
+}
+img{
+    max-width: 100% ;
+}
+.width{
+    width: 20%;
+}
+
+ul{
+    list-style: none;
+}
+/* MAIN */
+
+.bg-turquoise{
+    background-color: #1ABC9C;
+}
+/* 
+    FOTEER
+*/
+.bg-skyblue{
+    background-color: #3A546D;
+}
